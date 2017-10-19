@@ -1,0 +1,10 @@
+%i.fa.fa-camera-retro
+.container
+  %form{:method => "POST"}
+    %textarea#myEditor{:name => "editor_content"}
+    %button Submit
+
+:javascript
+  $(function() {
+    $('#myEditor').froalaEditor({toolbarInline: false})
+  });
