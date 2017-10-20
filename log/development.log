@@ -1,0 +1,1243 @@
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:39:32 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (5.6ms)
+Completed 200 OK in 558ms (Views: 35.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:39:46 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (4.1ms)
+Completed 200 OK in 7ms (Views: 5.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:39:48 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (3.1ms)
+Completed 200 OK in 6ms (Views: 4.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:39:49 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (2.7ms)
+Completed 200 OK in 5ms (Views: 3.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:39:50 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (2.9ms)
+Completed 200 OK in 5ms (Views: 4.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:39:50 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (4.1ms)
+Completed 200 OK in 7ms (Views: 5.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:39:50 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (3.2ms)
+Completed 200 OK in 5ms (Views: 4.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:39:50 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (4.2ms)
+Completed 200 OK in 7ms (Views: 5.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:42:15 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (3.1ms)
+Completed 200 OK in 5ms (Views: 4.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:42:16 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (4.2ms)
+Completed 200 OK in 7ms (Views: 5.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:42:16 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (4.3ms)
+Completed 200 OK in 7ms (Views: 5.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:42:16 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (4.2ms)
+Completed 200 OK in 7ms (Views: 5.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:42:17 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (4.4ms)
+Completed 200 OK in 7ms (Views: 5.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:48:04 -0400
+Processing by ApplicationController#index as HTML
+Completed 406 Not Acceptable in 6ms
+
+
+  
+ActionController::UnknownFormat (ApplicationController#index is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.4) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.4) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.4) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.4) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:48:37 -0400
+Processing by ApplicationController#index as HTML
+Completed 406 Not Acceptable in 7ms
+
+
+  
+ActionController::UnknownFormat (ApplicationController#index is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.4) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.4) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.4) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.4) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:48:55 -0400
+Processing by ApplicationController#index as HTML
+Completed 406 Not Acceptable in 12ms
+
+
+  
+ActionController::UnknownFormat (ApplicationController#index is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.4) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.4) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.4) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.4) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:48:56 -0400
+Processing by ApplicationController#index as HTML
+Completed 406 Not Acceptable in 8ms
+
+
+  
+ActionController::UnknownFormat (ApplicationController#index is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.4) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.4) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.4) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.4) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:49:06 -0400
+Processing by ApplicationController#index as HTML
+Completed 406 Not Acceptable in 134ms
+
+
+  
+ActionController::UnknownFormat (ApplicationController#index is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.4) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.4) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.4) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.4) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.4) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.4) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.4) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.4) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.4) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.4) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.4) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.4) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.4) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.4) lib/action_dispatch/routing/route_set.rb:834:in `call'
+rack (2.0.3) lib/rack/etag.rb:25:in `call'
+rack (2.0.3) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.3) lib/rack/head.rb:12:in `call'
+rack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.4) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.4) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.4) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:49:39 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (6.0ms)
+Completed 200 OK in 10012ms (Views: 10009.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:50:12 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (4.9ms)
+Completed 200 OK in 129ms (Views: 126.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:51:37 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (8.2ms)
+Completed 500 Internal Server Error in 12ms
+
+
+  
+ActionView::Template::Error (undefined method `rstrip' for nil:NilClass):
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:52:01 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (4.7ms)
+Completed 500 Internal Server Error in 8ms
+
+
+  
+ActionView::Template::Error (undefined method `rstrip' for nil:NilClass):
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:52:02 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (7.5ms)
+Completed 500 Internal Server Error in 12ms
+
+
+  
+ActionView::Template::Error (undefined method `rstrip' for nil:NilClass):
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:52:02 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (7.4ms)
+Completed 500 Internal Server Error in 13ms
+
+
+  
+ActionView::Template::Error (undefined method `rstrip' for nil:NilClass):
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:52:02 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (8.2ms)
+Completed 500 Internal Server Error in 12ms
+
+
+  
+ActionView::Template::Error (undefined method `rstrip' for nil:NilClass):
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:54:55 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (6.3ms)
+Completed 500 Internal Server Error in 153ms
+
+
+
+NoMethodError - undefined method `rstrip' for nil:NilClass:
+
+Started POST "/__better_errors/072a946e64bea0d3/variables" for 127.0.0.1 at 2017-10-19 15:54:55 -0400
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:56:17 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (6.7ms)
+Completed 200 OK in 559ms (Views: 556.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 15:56:57 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (3.6ms)
+Completed 200 OK in 8ms (Views: 6.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:03:11 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (8.5ms)
+Completed 200 OK in 3503ms (Views: 3500.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:03:31 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (4.0ms)
+Completed 200 OK in 103ms (Views: 101.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:03:54 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (4.3ms)
+Completed 200 OK in 126ms (Views: 123.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:04:02 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (4.3ms)
+Completed 200 OK in 131ms (Views: 129.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:04:53 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (4.5ms)
+Completed 200 OK in 246ms (Views: 244.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:06:27 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (3.9ms)
+Completed 200 OK in 101ms (Views: 99.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:06:33 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/enmchs/.rvm/gems/ruby-2.3.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 3.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:16:39 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (3.8ms)
+Completed 500 Internal Server Error in 1157ms
+
+
+
+Sass::SyntaxError - File to import not found or unreadable: material_icons.
+Load paths:
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/config
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/images
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/bourbon-4.3.4/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.3.1/vendor/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actionview-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/turbolinks-source-5.0.3/lib/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/node_modules
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/images
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets:
+  app/assets/stylesheets/application.scss:22:in `'
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml___3224513250242187547_69982371572400'
+
+Started POST "/__better_errors/1a264c054efef1d3/variables" for 127.0.0.1 at 2017-10-19 16:16:40 -0400
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:17:10 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (5.6ms)
+Completed 500 Internal Server Error in 1144ms
+
+
+
+Sass::SyntaxError - File to import not found or unreadable: material_icons.
+Load paths:
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/config
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/images
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/bourbon-4.3.4/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.3.1/vendor/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actionview-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/turbolinks-source-5.0.3/lib/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/node_modules
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/images
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets:
+  app/assets/stylesheets/application.scss:22:in `'
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml___3224513250242187547_69982210762080'
+
+Started POST "/__better_errors/d19e58ec087af43c/variables" for 127.0.0.1 at 2017-10-19 16:17:11 -0400
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:17:48 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (445.6ms)
+Completed 500 Internal Server Error in 448ms
+
+
+
+NameError - undefined local variable or method `material_icon' for #<#<Class:0x007f4c1e4b5868>:0x007f4c00985500>:
+  app/views/application/index.html.haml:2:in `_app_views_application_index_html_haml___2177315823711412523_69982202113900'
+
+Started POST "/__better_errors/7f25283eb35ce24c/variables" for 127.0.0.1 at 2017-10-19 16:17:49 -0400
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:21:57 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (449.2ms)
+Completed 500 Internal Server Error in 453ms
+
+
+
+NameError - undefined local variable or method `material_icon' for #<#<Class:0x007f4c1e4b5868>:0x007f4c143b00d0>:
+  app/views/application/index.html.haml:2:in `_app_views_application_index_html_haml___2177315823711412523_69982366828760'
+
+Started POST "/__better_errors/4337f77a5fdc48fd/variables" for 127.0.0.1 at 2017-10-19 16:21:58 -0400
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:22:10 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (3.7ms)
+Completed 200 OK in 3071ms (Views: 3069.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:22:31 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (2.9ms)
+Completed 200 OK in 122ms (Views: 120.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:23:14 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (5.9ms)
+Completed 200 OK in 3072ms (Views: 3070.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:23:36 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (4.0ms)
+Completed 200 OK in 96ms (Views: 92.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:23:37 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (3.3ms)
+Completed 200 OK in 82ms (Views: 81.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:23:38 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (3.7ms)
+Completed 200 OK in 94ms (Views: 93.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:23:38 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (4.5ms)
+Completed 200 OK in 134ms (Views: 132.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:25:11 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (6.1ms)
+Completed 200 OK in 130ms (Views: 127.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:25:18 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (3.6ms)
+Completed 200 OK in 101ms (Views: 96.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:25:33 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (3.3ms)
+Completed 200 OK in 97ms (Views: 94.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:25:43 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (3.3ms)
+Completed 200 OK in 3085ms (Views: 3083.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:26:18 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (4.2ms)
+Completed 500 Internal Server Error in 1209ms
+
+
+
+Sass::SyntaxError - File to import not found or unreadable: material_icons.
+Load paths:
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/config
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/images
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/bourbon-4.3.4/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.3.1/vendor/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actionview-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/turbolinks-source-5.0.3/lib/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/node_modules
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/images
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets:
+  app/assets/stylesheets/application.scss:22:in `'
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml___3224513250242187547_69982369993980'
+
+Started POST "/__better_errors/b9766d8c340213ef/variables" for 127.0.0.1 at 2017-10-19 16:26:20 -0400
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:27:01 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (4.4ms)
+Completed 500 Internal Server Error in 1102ms
+
+
+
+Sass::SyntaxError - File to import not found or unreadable: material_icons.
+Load paths:
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/config
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/images
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/bourbon-4.3.4/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.3.1/vendor/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actionview-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/turbolinks-source-5.0.3/lib/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/node_modules
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/images
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets:
+  app/assets/stylesheets/application.scss:22:in `'
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml___3224513250242187547_69982535539560'
+
+Started POST "/__better_errors/31c2cae6cf01a649/variables" for 127.0.0.1 at 2017-10-19 16:27:03 -0400
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:27:12 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (5.2ms)
+Completed 200 OK in 121ms (Views: 116.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:27:46 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (6.4ms)
+Completed 200 OK in 111ms (Views: 109.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:27:55 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (3.1ms)
+Completed 200 OK in 98ms (Views: 96.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:28:58 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (8.0ms)
+Completed 200 OK in 118ms (Views: 115.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:29:15 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (4.9ms)
+Completed 200 OK in 103ms (Views: 101.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:31:25 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (5.9ms)
+Completed 500 Internal Server Error in 24ms
+
+
+
+Sprockets::FileNotFound - couldn't find file 'material_icons' with type 'text/css'
+Checked in these paths: 
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/config
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/images
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/bourbon-4.3.4/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.3.1/vendor/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actionview-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/turbolinks-source-5.0.3/lib/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/node_modules
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/images
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/fonts:
+  app/assets/stylesheets/application.scss:13:in `'
+  app/views/layouts/application.html.haml:8:in `_app_views_layouts_application_html_haml___3224513250242187547_69982200643800'
+
+Started POST "/__better_errors/3d0e20a437ea982c/variables" for 127.0.0.1 at 2017-10-19 16:31:25 -0400
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:31:50 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (4.6ms)
+Completed 500 Internal Server Error in 22ms
+
+
+
+Sprockets::FileNotFound - couldn't find file 'material_icons' with type 'text/css'
+Checked in these paths: 
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/config
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/images
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/bourbon-4.3.4/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.3.1/vendor/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actionview-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/turbolinks-source-5.0.3/lib/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/node_modules
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/images
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/fonts:
+  app/assets/stylesheets/application.scss:13:in `'
+  app/views/layouts/application.html.haml:8:in `_app_views_layouts_application_html_haml___3224513250242187547_69982213132680'
+
+Started POST "/__better_errors/6fcb727f31155713/variables" for 127.0.0.1 at 2017-10-19 16:31:51 -0400
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:31:57 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (5.6ms)
+Completed 500 Internal Server Error in 16ms
+
+
+
+Sprockets::FileNotFound - couldn't find file 'material_icons' with type 'text/css'
+Checked in these paths: 
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/config
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/images
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/bourbon-4.3.4/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.3.1/vendor/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actionview-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/turbolinks-source-5.0.3/lib/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/node_modules
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/images
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/fonts:
+  app/assets/stylesheets/application.scss:13:in `'
+  app/views/layouts/application.html.haml:8:in `_app_views_layouts_application_html_haml___3224513250242187547_69982374128880'
+
+Started POST "/__better_errors/2a2da1410f51b48a/variables" for 127.0.0.1 at 2017-10-19 16:31:57 -0400
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:32:33 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (5.9ms)
+Completed 500 Internal Server Error in 41ms
+
+
+
+Sass::SyntaxError - File to import not found or unreadable: material_icons.
+Load paths:
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/config
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/images
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/bourbon-4.3.4/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.3.1/vendor/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actionview-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/turbolinks-source-5.0.3/lib/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/node_modules
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/images
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets:
+  app/assets/stylesheets/application.scss:16:in `'
+  app/views/layouts/application.html.haml:8:in `_app_views_layouts_application_html_haml___3224513250242187547_69982465502740'
+
+Started POST "/__better_errors/a14a24f495770067/variables" for 127.0.0.1 at 2017-10-19 16:32:33 -0400
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:32:57 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (7.7ms)
+Completed 500 Internal Server Error in 1072ms
+
+
+
+Sass::SyntaxError - File to import not found or unreadable: material_icons.
+Load paths:
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/config
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/images
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/wysiwyg-rails-2.7.0/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/bourbon-4.3.4/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/jquery-rails-4.3.1/vendor/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/actionview-5.1.4/lib/assets/compiled
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/turbolinks-source-5.0.3/lib/assets/javascripts
+  /home/enmchs/EnmChs/Projects/fakebook/node_modules
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/javascripts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/images
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/fonts
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/materialize-sass-0.100.2/app/assets/stylesheets
+  /home/enmchs/.rvm/gems/ruby-2.3.1/gems/font-awesome-sass-4.7.0/assets/stylesheets:
+  app/assets/stylesheets/application.scss:22:in `'
+  app/views/layouts/application.html.haml:8:in `_app_views_layouts_application_html_haml___3224513250242187547_69982206128860'
+
+Started POST "/__better_errors/6e43ae80225144bc/variables" for 127.0.0.1 at 2017-10-19 16:32:58 -0400
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:39:15 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (6.9ms)
+Completed 200 OK in 8056ms (Views: 7917.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:39:37 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (6.1ms)
+Completed 200 OK in 94ms (Views: 91.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:41:43 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (4.4ms)
+Completed 200 OK in 126ms (Views: 124.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:41:52 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (315.2ms)
+Completed 500 Internal Server Error in 324ms
+
+
+
+NoMethodError - undefined method `fa_icon' for #<#<Class:0x007f4110883cd8>:0x007f40f5645860>:
+  app/views/application/index.html.haml:1:in `_app_views_application_index_html_haml___4315271112399956377_69958485816000'
+
+Started POST "/__better_errors/2a23505cfcad6ff8/variables" for 127.0.0.1 at 2017-10-19 16:41:52 -0400
+Started GET "/" for 127.0.0.1 at 2017-10-19 16:49:34 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (7.0ms)
+Completed 200 OK in 5406ms (Views: 5270.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 11:52:28 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (30.0ms)
+Completed 200 OK in 3687ms (Views: 3523.2ms)
+
+
+  [1m[35m (0.3ms)[0m  [1m[35mSET  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (319.6ms)[0m  [1m[35mCREATE TABLE `schema_migrations` (`version` varchar(255) NOT NULL PRIMARY KEY) ENGINE=InnoDB[0m
+  [1m[35m (281.7ms)[0m  [1m[35mCREATE TABLE `ar_internal_metadata` (`key` varchar(255) NOT NULL PRIMARY KEY, `value` varchar(255), `created_at` datetime NOT NULL, `updated_at` datetime NOT NULL) ENGINE=InnoDB[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT GET_LOCK(2486114946478534035, 0)[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Migrating to DeviseCreateUsers (20171020161727)
+  [1m[35m (293.3ms)[0m  [1m[35mCREATE TABLE `users` (`id` bigint NOT NULL AUTO_INCREMENT PRIMARY KEY, `name` varchar(255) DEFAULT '' NOT NULL, `date_birth` datetime NOT NULL, `gender` int NOT NULL, `email` varchar(255) DEFAULT '' NOT NULL, `encrypted_password` varchar(255) DEFAULT '' NOT NULL, `reset_password_token` varchar(255), `reset_password_sent_at` datetime, `remember_created_at` datetime, `sign_in_count` int DEFAULT 0 NOT NULL, `current_sign_in_at` datetime, `last_sign_in_at` datetime, `current_sign_in_ip` varchar(255), `last_sign_in_ip` varchar(255), `confirmation_token` varchar(255), `confirmed_at` datetime, `confirmation_sent_at` datetime, `unconfirmed_email` varchar(255), `failed_attempts` int DEFAULT 0 NOT NULL, `unlock_token` varchar(255), `locked_at` datetime, `created_at` datetime NOT NULL, `updated_at` datetime NOT NULL) ENGINE=InnoDB[0m
+  [1m[35m (265.8ms)[0m  [1m[35mCREATE UNIQUE INDEX `index_users_on_email`  ON `users` (`email`) [0m
+  [1m[35m (243.0ms)[0m  [1m[35mCREATE UNIQUE INDEX `index_users_on_reset_password_token`  ON `users` (`reset_password_token`) [0m
+  [1m[35m (266.0ms)[0m  [1m[35mCREATE UNIQUE INDEX `index_users_on_confirmation_token`  ON `users` (`confirmation_token`) [0m
+  [1m[35m (255.5ms)[0m  [1m[35mCREATE UNIQUE INDEX `index_users_on_unlock_token`  ON `users` (`unlock_token`) [0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO `schema_migrations` (`version`) VALUES ('20171020161727')[0m
+  [1m[35m (39.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.6ms)[0m  [1m[34mSELECT  `ar_internal_metadata`.* FROM `ar_internal_metadata` WHERE `ar_internal_metadata`.`key` = 'environment' LIMIT 1[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO `ar_internal_metadata` (`key`, `value`, `created_at`, `updated_at`) VALUES ('environment', 'development', '2017-10-20 16:26:02', '2017-10-20 16:26:02')[0m
+  [1m[35m (36.5ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT RELEASE_LOCK(2486114946478534035)[0m
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[35mSET  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Started GET "/" for 127.0.0.1 at 2017-10-20 12:31:16 -0400
+  [1m[35m (0.4ms)[0m  [1m[35mSET  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (7.8ms)
+Completed 200 OK in 546ms (Views: 537.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/asd" for 127.0.0.1 at 2017-10-20 12:31:24 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/asd"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2017-10-20 12:31:57 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (6.4ms)
+Completed 200 OK in 126ms (Views: 124.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-20 12:31:57 -0400
+Processing by ApplicationController#index as HTML
+  Rendering application/index.html.haml within layouts/application
+  Rendered application/index.html.haml within layouts/application (7.1ms)
+Completed 200 OK in 115ms (Views: 113.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2017-10-20 12:31:59 -0400
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (3.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (221.0ms)
+Completed 200 OK in 382ms (Views: 334.8ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-10-20 12:32:06 -0400
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.3ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 82ms (Views: 80.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-10-20 12:35:43 -0400
+  [1m[35m (0.6ms)[0m  [1m[35mSET  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.haml within layouts/application
+  Rendered devise/shared/_links.html.haml (3.5ms)
+  Rendered devise/registrations/new.html.haml within layouts/application (44.8ms)
+Completed 200 OK in 616ms (Views: 566.4ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-10-20 12:37:25 -0400
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.haml within layouts/application
+  Rendered devise/shared/_links.html.haml (4.9ms)
+  Rendered devise/registrations/new.html.haml within layouts/application (20.1ms)
+Completed 200 OK in 148ms (Views: 146.1ms | ActiveRecord: 0.0ms)
+
+

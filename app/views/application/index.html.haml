@@ -3,6 +3,7 @@
   %form{:method => "POST"}
     %textarea#myEditor{:name => "editor_content"}
     %button Submit
+= link_to 'Nueva sesion', new_user_session_path
 
 :javascript
   $(function() {
