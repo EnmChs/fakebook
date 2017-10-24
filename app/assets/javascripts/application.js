@@ -15,6 +15,7 @@
 //= require rails-ujs
 //= require turbolinks
 //= require froala_editor.min.js
+//= require popper
 //= require bootstrap-sprockets
 //= require_tree .
 

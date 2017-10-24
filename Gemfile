@@ -30,7 +30,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 
 #Bootstrap
-gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'bootstrap', '~> 4.0.0.beta2.1'
+# gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
 #font-awesome http://www.rubydoc.info/gems/font-awesome-rails/4.7.0.2
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.2'

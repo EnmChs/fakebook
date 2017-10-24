@@ -1,17 +1,50 @@
-%h2 Log in
-= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f|
-  .field
-    = f.label :email
-    %br/
-    = f.email_field :email, autofocus: true
-  .field
-    = f.label :password
-    %br/
-    = f.password_field :password, autocomplete: "off"
-  - if devise_mapping.rememberable?
-    .field
-      = f.check_box :remember_me
-      = f.label :remember_me
-  .actions
-    = f.submit "Log in"
-= render "devise/shared/links"
+.container-fluid
+  .row
+    .col-lg-5.left-side
+      = form_for(resource, as: resource_name, url: session_path(resource_name)) do |f|
+        .card
+          .card-body
+            %h2.card-title.text-center Log in
+            %hr/
+            .field.form-group
+              = f.label :email
+              %br/
+              = f.email_field :email, autofocus: true, class: 'form-control'
+            .field.form-group
+              = f.label :password
+              %br/
+              = f.password_field :password, autocomplete: "off", class: 'form-control'
+            .actions
+              - if devise_mapping.rememberable?
+                .field.form-group
+                  = f.check_box :remember_me
+                  = f.label :remember_me
+              .text-right
+                = f.submit "Log in", class: 'btn btn-primary'
+        .alert.alert-info{:role => "alert"}
+          = render "devise/shared/links"
+    .col-lg-7.right-side
+      %h1.text-center{:style => 'margin-top: 200px;'}
+        ¿Qué tan fake eres motherf*cker?
+:scss
+  .right-side{
+    height: 100vh;
+  }
+  .left-side{
+    height: 100vh;
+    background-color: lightgray;
+    .card{
+      top: 70px;
+      width: 80%;
+      margin: 0 auto;
+      .card-title{
+        color: #007bff;
+      }
+    }
+    .alert{
+      display: flex;
+      top: 80px;
+      width: 80%;
+      margin: 0 auto;
+    }
+  }
