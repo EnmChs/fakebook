@@ -1,6 +1,6 @@
 .container-fluid
   .row
-    .col-lg-5.left-side
+    .col-lg-6.offset-lg-3.left-side
       = form_for(resource, as: resource_name, url: session_path(resource_name)) do |f|
         .card
           .card-body
@@ -20,12 +20,12 @@
                   = f.check_box :remember_me
                   = f.label :remember_me
               .text-right
-                = f.submit "Log in", class: 'btn btn-primary'
-        .alert.alert-info{:role => "alert"}
+          = f.submit "Get in. Uffs", class: 'btn btn-primary'
+        .alert.alert-info.text-center{:role => "alert", :style => 'margin: 0 auto;'}
           = render "devise/shared/links"
-    .col-lg-7.right-side
-      %h1.text-center{:style => 'margin-top: 200px;'}
-        ¿Qué tan fake eres motherf*cker?
+    -# .col-lg-7.right-side
+    -#   %h1.text-center{:style => 'margin-top: 200px;'}
+    -#     ¿Qué tan fake eres motherf*cker?
 :scss
   .right-side{
     height: 100vh;

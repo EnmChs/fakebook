@@ -1,60 +1,87 @@
-.container
-  .row
-    .col-lg-6.offset-lg-3
-      = form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f|
-        = devise_error_messages!
-        .card
-          .card-body
-            %h2.card-title.text-center Sign up
-            .row
-              .col-lg-6
-                .form-group
-                  .field
-                    = f.label  :username
-                    %br/
-                    = f.text_field :username, class: 'form-control'
-                .form-group
-                  .field
-                    = f.label  :name
-                    %br/
-                    = f.text_field :name, class: 'form-control'
-                .form-group
-                  .field
-                    = f.label  :gender
-                    %br/
-                    %label.custom-control.custom-radio
-                      = f.radio_button :gender, 1, class: 'custom-control-input'
-                      %span.custom-control-indicator
-                      Jeva
-                    %label.custom-control.custom-radio
-                      = f.radio_button :gender, 2, class: 'custom-control-input'
-                      %span.custom-control-indicator
-                      Pana
-                .form-group
-                  .field
-                  = f.label  :date_birth
-                  %br/
-                  -# = f.datetime_select :date_birth, :prompt => {:day => 'Choose day', :month => 'Choose month', :year => 'Choose year'}, :hour => false
-                  = f.date_select :date_birth, :order => [:day, :month, :year], class:'form-control'
-              .col-lg-6
-                .form-group
-                  .field
-                    = f.label :email
-                    %br/
-                    = f.email_field :email, autofocus: true, class:'form-control'
-                .form-group
-                  .field
-                    = f.label :password
-                    - if @minimum_password_length
-                      %em
-                        (#{@minimum_password_length} characters minimum)
-                    %br/
-                    = f.password_field :password, autocomplete: "off", class:'form-control'
-                .form-group
-                  .field
-                    = f.label :password_confirmation
-                    %br/
-                    = f.password_field :password_confirmation, autocomplete: "off", class:'form-control'
-        .actions
-          = f.submit "Sign up", class: "btn btn-outline-primary"
-          = render "devise/shared/links"
+= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f|
+  = devise_error_messages!
+  .container-fluid
+    %h2.text-center Sign up
+    .row
+      .col-lg-4
+        .form-group
+          .field
+            = f.label  :username
+            %br/
+            = f.text_field :username, class: 'form-control', required: true
+        .form-group
+          .field
+            = f.label  :name
+            %br/
+            = f.text_field :name, class: 'form-control', required: true
+        .form-group
+          .field
+            = f.label  :gender
+            %br/
+            %label.custom-control.custom-radio
+              = f.radio_button :gender, 1, class: 'custom-control-input', required: true
+              %span.custom-control-indicator
+              Jeva
+            %label.custom-control.custom-radio
+              = f.radio_button :gender, 2, class: 'custom-control-input', required: true
+              %span.custom-control-indicator
+              Pana
+        .form-group
+          .field
+          = f.label  :date_birth, required: true
+          %br/
+          -# = f.datetime_select :date_birth, :prompt => {:day => 'Choose day', :month => 'Choose month', :year => 'Choose year'}, :hour => false
+          = f.date_select :date_birth, :order => [:day, :month, :year], class:'form-control'
+      .col-lg-4
+        .form-group
+          .field
+            = f.label :email
+            %br/
+            = f.email_field :email, autofocus: true, class:'form-control', required: true
+        .form-group
+          .field
+            = f.label :password
+            - if @minimum_password_length
+              %em
+                %small
+                  (#{@minimum_password_length} characters minimum)
+            %br/
+            = f.password_field :password, autocomplete: "off", class:'form-control', required: true
+        .form-group
+          .field
+            = f.label :password_confirmation
+            %br/
+            = f.password_field :password_confirmation, autocomplete: "off", class:'form-control', required: true
+          .actions
+            = f.submit "Sign up", class: "btn btn-outline-primary"
+            = render "devise/shared/links"
+      .col-lg-4
+
+:scss
+  #user_date_birth_3i, #user_date_birth_2i, #user_date_birth_1i{
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-image: none;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    -webkit-transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
+  }
+
+  #user_date_birth_3i{
+    width: 70px;
+  }
+  #user_date_birth_2i{
+    width: 130px;
+  }
+  #user_date_birth_1i{
+    width: 100px;
+  }
