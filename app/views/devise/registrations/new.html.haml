@@ -3,59 +3,82 @@
   .container-fluid
     %h2.text-center Sign up
     .row
-      .col-lg-4
-        .form-group
-          .field
-            = f.label  :username
-            %br/
-            = f.text_field :username, class: 'form-control', required: true
-        .form-group
-          .field
-            = f.label  :name
-            %br/
-            = f.text_field :name, class: 'form-control', required: true
-        .form-group
-          .field
-            = f.label  :gender
-            %br/
-            %label.custom-control.custom-radio
-              = f.radio_button :gender, 1, class: 'custom-control-input', required: true
-              %span.custom-control-indicator
-              Jeva
-            %label.custom-control.custom-radio
-              = f.radio_button :gender, 2, class: 'custom-control-input', required: true
-              %span.custom-control-indicator
-              Pana
-        .form-group
-          .field
-          = f.label  :date_birth, required: true
-          %br/
-          -# = f.datetime_select :date_birth, :prompt => {:day => 'Choose day', :month => 'Choose month', :year => 'Choose year'}, :hour => false
-          = f.date_select :date_birth, :order => [:day, :month, :year], class:'form-control'
-      .col-lg-4
-        .form-group
-          .field
-            = f.label :email
-            %br/
-            = f.email_field :email, autofocus: true, class:'form-control', required: true
-        .form-group
-          .field
-            = f.label :password
-            - if @minimum_password_length
-              %em
-                %small
-                  (#{@minimum_password_length} characters minimum)
-            %br/
-            = f.password_field :password, autocomplete: "off", class:'form-control', required: true
-        .form-group
-          .field
-            = f.label :password_confirmation
-            %br/
-            = f.password_field :password_confirmation, autocomplete: "off", class:'form-control', required: true
-          .actions
-            = f.submit "Sign up", class: "btn btn-outline-primary"
-            = render "devise/shared/links"
-      .col-lg-4
+      .col-lg-4.offset-lg-4
+        .container
+          .row
+            .col-lg
+              .form-group
+                .field
+                  %br/
+                  = f.text_field :username, class: 'form-control form-control-success', required: true, placeholder: 'username'
+              .form-group
+                .field
+                  %br/
+                  %span.form-control-label{:for => 'name'}
+                  = f.text_field :name, class: 'form-control', required: true, placeholder: 'name', id: 'name'
+              -# .form-group
+              -#   .field
+              -#     %br/
+              -#     %label.custom-control.custom-radio
+              -#       = f.radio_button :gender, 1, class: 'custom-control-input', required: true
+              -#       %span.custom-control-indicator
+              -#       Jeva
+              -#     %label.custom-control.custom-radio
+              -#       = f.radio_button :gender, 2, class: 'custom-control-input', required: true
+              -#       %span.custom-control-indicator
+              -#       Pana
+              -# .form-group
+              -#   .field
+              -#   = f.label  :date_birth, required: true
+              -#   %br/
+              -#   -# = f.datetime_select :date_birth, :prompt => {:day => 'Choose day', :month => 'Choose month', :year => 'Choose year'}, :hour => false
+              -#   = f.date_select :date_birth, :order => [:day, :month, :year], :start_year => 1950, :end_year => Date.today.year ,class:'form-control'
+              .form-group
+                .field
+                  -# = f.label :email
+                  %br/
+                  = f.email_field :email, autofocus: true, class:'form-control', required: true, placeholder: 'email'
+              .form-group
+                .field
+                  -# = f.label :password
+                  %br/
+                  = f.password_field :password, autocomplete: "off", class:'form-control', required: true, placeholder: 'password'
+                  - if @minimum_password_length
+                    %span.badge.badge-default
+                      (#{@minimum_password_length} characters minimum)
+              .form-group
+                .field
+                  -# = f.label :password_confirmation
+                  %br/
+                  = f.password_field :password_confirmation, autocomplete: "off", class:'form-control', required: true, placeholder: 'confirm password'
+              .form-group
+                .actions
+                  = f.submit "Sign up", class: "btn btn-outline-primary"
+                .right
+                  = render "devise/shared/links"
+-# .card
+-#   .card-header
+-#     %h1.titulo-pryecto
+-#       Nombre 1
+-# .card
+-#   .card-header
+-#     %h1.titulo-pryecto
+-#       Nombre 3
+-# .card
+-#   .card-header
+-#     %h1.titulo-pryecto
+-#       Nombre 2
+
+
+
+-#
+-# :javascript
+-#   $('.card').click(function(){
+-#     console.log(this.children[0].children[0].textContent);
+-#   });
+
+
+
 
 :scss
   #user_date_birth_3i, #user_date_birth_2i, #user_date_birth_1i{
@@ -84,4 +107,40 @@
   }
   #user_date_birth_1i{
     width: 100px;
+  }
+  .form-group{
+    margin-bottom: .2rem;
+    .form-control{
+      border-left: 0;
+      border-top: 0;
+      border-right: 0;
+      border-radius: 0;
+      transition: .3s;
+      &:focus{
+        border-color: #718f9c;
+        box-shadow: 0 0 0 transparent;
+        transition: .3s;
+      }
+    }
+  }
+  .addon-icon{
+    &:not(:last-child){
+      border-right: 0;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    border-radius: 2px;
+    border: 0;
+    font-size: 18px;
+    background-color: transparent;
+    font-weight: 400;
+    line-height: 1.25;
+    color: #495057;
+    text-align: center;
+    padding: .5rem .75rem;
+    margin-bottom: 0;
+    white-space: nowrap;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
   }
