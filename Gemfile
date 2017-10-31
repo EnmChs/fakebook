@@ -16,7 +16,8 @@ gem 'rails', '~> 5.1.4'
 
 #mysql2
 gem 'mysql2', '~> 0.4.9'
-
+gem 'ember-cli-rails'
+gem 'active_model_serializers', '~> 0.10.6'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets

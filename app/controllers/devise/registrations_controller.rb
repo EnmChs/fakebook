@@ -1,13 +1,16 @@
-class Devise::RegistrationsController < DeviseController
+class Api::V1::Devise::RegistrationsController < Api::V1::DeviseController
   prepend_before_action :require_no_authentication, only: [:new, :create, :cancel]
   prepend_before_action :authenticate_scope!, only: [:edit, :update, :destroy]
   prepend_before_action :set_minimum_password_length, only: [:new, :edit]
-
+  respond_to :json
   # GET /resource/sign_up
   def new
     build_resource({})
     yield resource if block_given?
     respond_with resource
+    # respond_with resource do |format|
+    #   format.json {render :json => {data: resource, state: 0}} # this code will get executed for json request
+    # end
   end
 
   # POST /resource

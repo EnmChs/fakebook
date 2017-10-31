@@ -1,0 +1,15 @@
+<table>
+  <tr>
+    <th>Content</th>
+    <th>Read</th>
+  </tr>
+
+  {{#each model as |arrow|}}
+    <tr>
+      <td>{{arrow.content}}</td>
+      <td>{{arrow.read}}</td>
+    </tr>
+  {{/each}}
+</table>
+{{#link-to "New Arrow"}}{{/link-to}}
+{{outlet}}

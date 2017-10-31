@@ -1,0 +1,25 @@
+%h1 Listing arrows
+
+%table
+  %thead
+    %tr
+      %th Content
+      %th Read
+      %th User
+      %th
+      %th
+      %th
+
+  %tbody
+    - @arrows.each do |arrow|
+      %tr
+        %td= arrow.content
+        %td= arrow.read
+        %td= arrow.user
+        %td= link_to 'Show', arrow
+        %td= link_to 'Edit', edit_arrow_path(arrow)
+        %td= link_to 'Destroy', arrow, method: :delete, data: { confirm: 'Are you sure?' }
+
+%br
+
+= link_to 'New Arrow', new_arrow_path

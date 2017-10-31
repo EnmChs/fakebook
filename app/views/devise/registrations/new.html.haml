@@ -1,10 +1,11 @@
 = form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f|
   = devise_error_messages!
   .container-fluid
-    %h2.text-center Sign up
+
     .row
-      .col-lg-4.offset-lg-4
+      .col-lg-4
         .container
+          %h2.text-center{:style => 'margin-top: 20px;'} Sign up
           .row
             .col-lg
               .form-group
@@ -52,10 +53,11 @@
                   %br/
                   = f.password_field :password_confirmation, autocomplete: "off", class:'form-control', required: true, placeholder: 'confirm password'
               .form-group
-                .actions
+                .actions{:style => 'display: grid;padding: 40px;'}
                   = f.submit "Sign up", class: "btn btn-outline-primary"
-                .right
                   = render "devise/shared/links"
+                .right
+      .col-lg{:style => 'background-color: #5a93c7;'}
 -# .card
 -#   .card-header
 -#     %h1.titulo-pryecto
@@ -81,6 +83,9 @@
 
 
 :scss
+  input{
+    background-color: transparent !important;
+  }
   #user_date_birth_3i, #user_date_birth_2i, #user_date_birth_1i{
     display: block;
     width: 100%;
@@ -91,7 +96,7 @@
     background-color: #fff;
     background-image: none;
     background-clip: padding-box;
-    border: 1px solid #ced4da;
+    border: 1.5px solid #5a93c7;
     border-radius: 0.25rem;
     -webkit-transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
     transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
@@ -116,8 +121,9 @@
       border-right: 0;
       border-radius: 0;
       transition: .3s;
+      border-bottom: 1.5px solid #ced4da;
       &:focus{
-        border-color: #718f9c;
+        border-color: #5a93c7;
         box-shadow: 0 0 0 transparent;
         transition: .3s;
       }

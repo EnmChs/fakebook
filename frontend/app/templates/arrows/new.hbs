@@ -1,0 +1,7 @@
+<form {{action 'createArrow' on="submit"}}>
+  {{input type="text" value=arrowContent placeholder="Content"}}
+  {{input type="bool" value=arrowRead placeholder="Read"}}
+  <button type="submit">Create arrow</button>
+</form>
+
+{{outlet}}

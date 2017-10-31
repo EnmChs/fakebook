@@ -1,15 +1,33 @@
-class Devise::SessionsController < DeviseController
+class Api::V1::Devise::SessionsController < Api::V1::DeviseController
   prepend_before_action :require_no_authentication, only: [:new, :create]
   prepend_before_action :allow_params_authentication!, only: :create
   prepend_before_action :verify_signed_out_user, only: :destroy
   prepend_before_action(only: [:create, :destroy]) { request.env["devise.skip_timeout"] = true }
-
+  before_action :default_serializer_options
+  respond_to :json
   # GET /resource/sign_in
   def new
     self.resource = resource_class.new(sign_in_params)
     clean_up_passwords(resource)
     yield resource if block_given?
-    respond_with(resource, serialize_options(resource))
+    respond_with(resource, default_serializer_options)
+    # do |format|
+    #   format.json {
+    #     resource.save ? (render :json => {:state => {:code => 0}, :data => resource }) :
+    #                  (render :json => {:state => {:code => 1, :messages => resource.errors.full_messages} })
+    #   }
+    # end
+    # respond_to do |format|
+    #   format.html {
+    #     super
+    #   }
+    #   format.json {
+    #     resource = resource_class.new(sign_in_params)
+    #     clean_up_passwords(resource)
+    #     resource.save ? (render :json => {:state => {:code => 0}, :data => UserSerializer.new(resource) }) :
+    #                  (render :json => {:state => {:code => 1, :messages => resource.errors.full_messages, :data => UserSerializer.new(resource)} })
+    #   }
+    # end
   end
 
   # POST /resource/sign_in
@@ -50,8 +68,10 @@ class Devise::SessionsController < DeviseController
     'devise.sessions'
   end
 
+  def default_serializer_options
+    { each_serializer: UserSerializer } # I use each_serializer instead of serializer because it's rendering a collection.
+  end
   private
-
   # Check if there is no signed in user before doing the sign out.
   #
   # If there is no signed in user, it will set the flash message and redirect

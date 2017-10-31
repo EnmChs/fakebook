@@ -1,0 +1,15 @@
+%p#notice= notice
+
+%p
+  %b Content:
+  = @arrow.content
+%p
+  %b Read:
+  = @arrow.read
+%p
+  %b User:
+  = @arrow.user
+
+= link_to 'Edit', edit_arrow_path(@arrow)
+\|
+= link_to 'Back', arrows_path
