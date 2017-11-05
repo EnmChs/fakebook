@@ -1,12 +1,14 @@
 class  Api::V1::ArrowsController < ApplicationController
   before_action :set_arrow, only: [:show, :edit, :update, :destroy]
-
+  # before_action :authenticate_user!, except: [:index, :show]
+  respond_to :json
   # GET /arrows
   # GET /arrows.json
   def index
     @arrows = Arrow.all
     # @users = User.all
     render :json => @arrows
+
   end
 
   # GET /arrows/1
@@ -27,17 +29,22 @@ class  Api::V1::ArrowsController < ApplicationController
   # POST /arrows
   # POST /arrows.json
   def create
+    # @arrow = Arrow.new(content: params[:data][:attributes][:content])
     @arrow = Arrow.new(arrow_params)
-
-    respond_to do |format|
-      if @arrow.save
-        format.html { redirect_to @arrow, notice: 'Arrow was successfully created.' }
-        format.json { render :show, status: :created, location: @arrow }
-      else
-        format.html { render :new }
-        format.json { render json: @arrow.errors, status: :unprocessable_entity }
-      end
+    if @arrow.save
+      render json: @arrow, status: :created
+    else
+      render json: @arrow.errors, status: :unprocessable_entity
     end
+    # respond_to do |format|
+    #   if @arrow.save
+    #     format.html { redirect_to @arrow, notice: 'Arrow was successfully created.' }
+    #     format.json { render :show, status: :created, location: @arrow }
+    #   else
+    #     format.html { render :new }
+    #     format.json { render json: @arrow.errors, status: :unprocessable_entity }
+    #   end
+    # end
   end
 
   # PATCH/PUT /arrows/1
@@ -73,6 +80,7 @@ class  Api::V1::ArrowsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def arrow_params
-      params.require(:arrow).permit(:content, :read)
+      # params.require(:arrow).permit(:content, :read)
+      params.require(:data).permit(:attributes => [:content])
     end
 end

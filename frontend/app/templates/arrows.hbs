@@ -1,15 +1,14 @@
-<table>
-  <tr>
-    <th>Content</th>
-    <th>Read</th>
-  </tr>
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 left-side">
+      {{#each model as |arrow|}}
+        {{comment-box arrow=arrow}}
+      {{/each}}
+    </div>
+    <div class="col-lg-4 fixed-input">
+      {{outlet}}
+    </div>
+  </div>
+</div>
 
-  {{#each model as |arrow|}}
-    <tr>
-      <td>{{arrow.content}}</td>
-      <td>{{arrow.read}}</td>
-    </tr>
-  {{/each}}
-</table>
-{{#link-to "New Arrow"}}{{/link-to}}
-{{outlet}}
+{{#link-to "arrows.new" class="btn"}}Send Data{{/link-to}}

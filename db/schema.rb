@@ -14,7 +14,6 @@ ActiveRecord::Schema.define(version: 20171028051941) do
 
   create_table "arrows", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.text "content"
-    t.boolean "read"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

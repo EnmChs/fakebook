@@ -1,0 +1,38 @@
+{{!-- <div class="col-sm-8">
+  <div class="panel panel-white post panel-shadow">
+    <div class="post-heading">
+      <div class="pull-left meta">
+        <h6 class="text-muted time">{{ arrow.created_at }}</h6>
+      </div>
+    </div>
+    <div class="post-description">
+      <p>{{ arrow.content }}</p>
+    </div>
+  </div>
+</div> --}}
+{{#link-to 'arrows.show' arrow.id class="author"}}
+  <div class="panel panel-default">
+    <div class="panel-body">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg">
+            {{ arrow.content }}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-offset-4">
+            {{ arrow.created_at }}
+          </div>
+        </div>
+
+        {{!-- {{#link-to "arrows.show" class="btn btn-primary"}}{{arrow.id}}{{/link-to}} --}}
+      </div>
+    </div>
+  </div>
+{{/link-to}}
+<style media="screen">
+  a{
+    text-decoration: none !important;
+    color: inherit !important;
+  }
+</style>

@@ -1,4 +1,4 @@
-class Api::V1::Devise::SessionsController < Api::V1::DeviseController
+class Devise::SessionsController < DeviseController
   prepend_before_action :require_no_authentication, only: [:new, :create]
   prepend_before_action :allow_params_authentication!, only: :create
   prepend_before_action :verify_signed_out_user, only: :destroy

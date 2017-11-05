@@ -48,3 +48,46 @@
       margin: 0 auto;
     }
   }
+  input{
+    background-color: transparent !important;
+  }
+  #user_date_birth_1i{
+    width: 100px;
+  }
+  .form-group{
+    margin-bottom: .2rem;
+    .form-control{
+      border-left: 0;
+      border-top: 0;
+      border-right: 0;
+      border-radius: 0;
+      transition: .3s;
+      border-bottom: 1.5px solid #ced4da;
+      &:focus{
+        border-color: #5a93c7;
+        box-shadow: 0 0 0 transparent;
+        transition: .3s;
+      }
+    }
+  }
+  .addon-icon{
+    &:not(:last-child){
+      border-right: 0;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    border-radius: 2px;
+    border: 0;
+    font-size: 18px;
+    background-color: transparent;
+    font-weight: 400;
+    line-height: 1.25;
+    color: #495057;
+    text-align: center;
+    padding: .5rem .75rem;
+    margin-bottom: 0;
+    white-space: nowrap;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+  }

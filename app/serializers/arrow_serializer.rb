@@ -1,4 +1,4 @@
 class ArrowSerializer < ActiveModel::Serializer
-  attributes :id, :content, :read
+  attributes :id, :content, :created_at
   # has_one :user
 end

@@ -1,0 +1,15 @@
+<div class="well">
+  <h2>{{model.content}}</h2>
+  <div class="action">
+    <button type="button" name="button" class="btn btn-danger"{{action "callText" model}}>Delete</button>
+    {{!-- <button type="button" name="button" class="btn btn-info">Edit</button> --}}
+    {{!-- {{#link-to "arrows.edit" model.id class="btn btn-info"}}Edit{{/link-to}} --}}
+    {{!-- {{#link-to "arrows.new" class="btn"}}Send Data{{/link-to}} --}}
+  </div>
+</div>
+
+<style media="screen">
+  .action{
+    float: right;
+  }
+</style>

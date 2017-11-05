@@ -1,7 +1,37 @@
-<form {{action 'createArrow' on="submit"}}>
+{{!-- <form {{action 'createArrow' on="submit"}}>
   {{input type="text" value=arrowContent placeholder="Content"}}
-  {{input type="bool" value=arrowRead placeholder="Read"}}
   <button type="submit">Create arrow</button>
-</form>
+</form> --}}
+{{!-- <div class="container">
+  <div class="row">
+    <div class="col-lg-4">
 
+    </div>
+  </div>
+</div> --}}
+<div class="panel panel-default">
+  {{!-- <div class="panel-heading">
+
+  </div> --}}
+  <div class="panel-body">
+    <h3 class="panel-title">Create a new arrow</h3>
+    <hr>
+    <div class="input-group">
+      {{!-- <input type="text" class="form-control" placeholder="Search for..."> --}}
+      {{input type="text" value=arrowContent class="form-control"}}
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" {{action "createArrow"}}>Let's go!</button>
+      </span>
+    </div><!-- /input-group -->
+  </div>
+</div>
+<hr style="background-color: #fff">
+
+
+{{!-- <div class="form">
+
+</div>
+<div class="actions">
+  <button class="btn" {{action "createArrow"}}>Save</button>
+</div> --}}
 {{outlet}}
