@@ -1,0 +1,21 @@
+<div class="well">
+
+  <h2>{{model.content}}</h2>
+  <div class="action">
+
+
+    {{#link-to "arrows.show" model}}
+      <button type="button" name="button" class="btn btn-info">Not sure</button>
+    {{/link-to}}
+    <button type="button" name="button" class="btn btn-danger" {{action 'confirm' model}}>Sure</button>
+  </div>
+  {{!-- <form {{action 'confirm' model on='submit'}}>
+    <p><button>Delete <strong>{{model.name}}</strong></button> or {{#link-to 'arrows.show' model}}cancel{{/link-to}}</p>
+  </form> --}}
+</div>
+
+<style media="screen">
+  .action{
+    float: right;
+  }
+</style>

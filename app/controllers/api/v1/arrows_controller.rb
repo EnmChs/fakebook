@@ -14,6 +14,7 @@ class  Api::V1::ArrowsController < ApplicationController
   # GET /arrows/1
   # GET /arrows/1.json
   def show
+    render json: @arrow
   end
 
   # GET /arrows/new
@@ -50,32 +51,33 @@ class  Api::V1::ArrowsController < ApplicationController
   # PATCH/PUT /arrows/1
   # PATCH/PUT /arrows/1.json
   def update
-    respond_to do |format|
-      if @arrow.update(arrow_params)
-        format.html { redirect_to @arrow, notice: 'Arrow was successfully updated.' }
-        format.json { render :show, status: :ok, location: @arrow }
-      else
-        format.html { render :edit }
-        format.json { render json: @arrow.errors, status: :unprocessable_entity }
-      end
+    if @arrow.update(arrow_params)
+      # format.html { redirect_to @arrow, notice: 'Arrow was successfully updated.' }
+      render json: @arrow
+    else
+      # format.html { render :edit }
+      render json: @arrow.errors, status: :unprocessable_entity
     end
   end
 
   # DELETE /arrows/1
   # DELETE /arrows/1.json
   def destroy
+
+
     @arrow.destroy
-    respond_to do |format|
-      format.html { redirect_to arrows_url, notice: 'Arrow was successfully destroyed.' }
-      format.json { head :no_content }
-    end
+    # respond_to do |format|
+    #   format.html { redirect_to arrows_url, notice: 'Arrow was successfully destroyed.' }
+    #   format.json { head :no_content }
+    # end
   end
 
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_arrow
       @arrow = Arrow.find(params[:id])
-      render :json => @arrow
+      # render :json => @arrow
+      # byebug
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.
