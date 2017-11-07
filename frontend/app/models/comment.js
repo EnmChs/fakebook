@@ -1,7 +1,7 @@
 import DS from 'ember-data';
 
 export default DS.Model.extend({
-  content: DS.attr('string'),
+  body: DS.attr(),
   created_at: DS.attr('date'),
-  comments: DS.hasMany('comment')
+  arrow: belongsTo('arrow')
 });
