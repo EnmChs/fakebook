@@ -1,0 +1,43 @@
+<div class="well">
+  <h3>{{model.content}}</h3>
+  {{#each model.comments as |book|}}
+    {{!-- {{book-cover book=book blurBackground=(route-action "blurBackground")}} --}}
+    <h4>{{book}}</h4>
+  {{/each}}
+  <h4>{{model.comments}}</h4>
+  <hr>
+  <div class="action">
+
+    {{!-- <button type="button" name="button" class="btn btn-info">Edit</button> --}}
+    {{#link-to "arrows.destroy" model}}
+      <button type="button" name="button" class="btn btn-danger">Delete</button>
+    {{/link-to}}
+    {{#link-to "arrows.arrow.comments" model}}
+      <button type="button" name="button" class="btn btn-info">Comments</button>
+    {{/link-to}}
+    {{!-- {{#link-to "arrows.new" class="btn"}}Send Data{{/link-to}} --}}
+  </div>
+</div>
+
+{{outlet}}
+<style media="screen">
+  .action{
+    /*float: right;*/
+    right: 0;
+  }
+
+  .btn{
+    border-radius: 0;
+    background: transparent;
+    transition: .3s;
+  }
+
+  .btn-danger{
+    border: 1px solid #d43f3a;
+    color: #d43f3a;
+  }
+  .btn-info{
+    border: 1px solid #31b0d5;
+    color: #31b0d5;
+  }
+</style>

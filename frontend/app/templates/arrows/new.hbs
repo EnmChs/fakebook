@@ -11,13 +11,13 @@
 </div> --}}
 <div class="panel panel-default">
   <div class="panel-body">
-    <h3 class="panel-title">Create a new arrow</h3>
-    <hr>
+    {{!-- <h3 class="panel-title">Create a new arrow</h3>
+    <hr> --}}
     <div class="input-group">
       {{!-- <input type="text" class="form-control" placeholder="Search for..."> --}}
-      {{input type="text" value=arrowContent class="form-control"}}
+      {{input type="text" value=arrowContent class="form-control custom-input"}}
       <span class="input-group-btn">
-        <button class="btn btn-default" type="button" {{action "createArrow"}}>Let's go!</button>
+        <button class="btn btn-default custom-btn" type="button" {{action "createArrow"}}>New arrow!</button>
       </span>
     </div><!-- /input-group -->
   </div>
@@ -32,3 +32,27 @@
   <button class="btn" {{action "createArrow"}}>Save</button>
 </div> --}}
 {{outlet}}
+<style media="screen">
+  .custom-btn{
+    background-color: #fff;
+    border: 1px solid #4286f4;
+    color: #4286f4;
+    transition: .3s;
+    border-radius: 0;
+  }
+  .custom-btn:hover{
+    background-color: #4286f4;
+    transition: .3s;
+    border: 1px solid #4286f4;
+    color: #FFF;
+  }
+
+  .custom-input{
+    border-radius: 0;
+    border-left: 0;
+    border-top: 0;box-shadow: none;
+  }
+  .custom-input:focus{
+    box-shadow: none !important;
+  }
+</style>

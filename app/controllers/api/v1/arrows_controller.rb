@@ -24,8 +24,7 @@ class  Api::V1::ArrowsController < ApplicationController
   end
 
   # GET /arrows/1/edit
-  def edit
-  end
+  def edit; end
 
   # POST /arrows
   # POST /arrows.json
@@ -63,13 +62,7 @@ class  Api::V1::ArrowsController < ApplicationController
   # DELETE /arrows/1
   # DELETE /arrows/1.json
   def destroy
-
-
     @arrow.destroy
-    # respond_to do |format|
-    #   format.html { redirect_to arrows_url, notice: 'Arrow was successfully destroyed.' }
-    #   format.json { head :no_content }
-    # end
   end
 
   private

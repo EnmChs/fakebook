@@ -4,13 +4,13 @@
   <div class="action">
 
 
-    {{#link-to "arrows.show" model}}
+    {{#link-to "arrows.arrow" model}}
       <button type="button" name="button" class="btn btn-info">Not sure</button>
     {{/link-to}}
     <button type="button" name="button" class="btn btn-danger" {{action 'confirm' model}}>Sure</button>
   </div>
   {{!-- <form {{action 'confirm' model on='submit'}}>
-    <p><button>Delete <strong>{{model.name}}</strong></button> or {{#link-to 'arrows.show' model}}cancel{{/link-to}}</p>
+    <p><button>Delete <strong>{{model.name}}</strong></button> or {{#link-to 'arrows.arrow' model}}cancel{{/link-to}}</p>
   </form> --}}
 </div>
 
